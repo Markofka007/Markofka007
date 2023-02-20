@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**TheBigCarrot/TheBigCarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 I’m currently studying/practicing
+- Cybersecurity
+ - TCM's PNPT Certification
+ - Active Directory
+ - Active Directory Pentesting
+ - Web Application Pentesting
+- Rust
+- Python
 
-Here are some ideas to get you started:
+## 🌱 Plan on studying
+- Guitar
+- JavaScript
+- CompTIA Security+ Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹 I'm currently having fun with
+- TryHackMe https://tryhackme.com/
+- Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+## ⭐ Featured projects
+- Lemon Jam https://github.com/TheBigCarrot/Lemon-Jam-1
+
+## 🥰 General Interests
+### 👾 Games
+- Chess
+- Bloons Tower Defense 6
+- League of Legends
+### 🎶 Music
+- Caravan Palace
+- Black Pink
+
+---
+
+### Bio
+My name is Mark and I am a cybersecurity student. My dream is to have a career in Penetration Testing or Red Teaming. I am also very interested in video game programming and AI development, but I mostly follow news and watch videos regarding these areas on interests. If you want to contact me for any reason I can always be reached at markofka@carrotcove.net
