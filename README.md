@@ -2,10 +2,10 @@
 
 ## 💡 I’m currently studying/practicing
 - Cybersecurity
- - TCM's PNPT Certification
- - Active Directory
- - Active Directory Pentesting
- - Web Application Pentesting
+  - TCM's PNPT Certification
+  - Active Directory
+  - Active Directory Pentesting
+  - Web Application Pentesting
 - Rust
 - Python
 
