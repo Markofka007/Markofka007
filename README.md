@@ -31,6 +31,3 @@
 - Black Pink
 
 ---
-
-### Bio
-My name is Mark and I am a cybersecurity student. My dream is to have a career in Penetration Testing or Red Teaming. I am also very interested in video game programming and AI development, but I mostly follow news and watch videos regarding these areas on interests. If you want to contact me for any reason I can always be reached at markofka@carrotcove.net
