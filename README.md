@@ -21,15 +21,6 @@
 ## ⭐ Featured projects
 - Lemon Jam https://github.com/TheBigCarrot/Lemon-Jam-1
 
-## 🥰 General Interests
-### 👾 Games
-- Chess
-- Bloons Tower Defense 6
-- League of Legends
-### 🎶 Music
-- Caravan Palace
-- Black Pink
-
 ---
 
 ## Bio
