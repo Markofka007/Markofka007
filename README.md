@@ -8,9 +8,9 @@
   - Web Application Pentesting
 - Rust
 - Python
+- Guitar
 
 ## 🌱 Plan on studying
-- Guitar
 - JavaScript
 - CompTIA Security+ Certification
 
