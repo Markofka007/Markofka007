@@ -20,6 +20,7 @@
 
 ## ⭐ Featured projects
 - Lemon Jam https://github.com/TheBigCarrot/Lemon-Jam-1
+- PyLogger https://github.com/TheBigCarrot/PyLogger
 
 ---
 
