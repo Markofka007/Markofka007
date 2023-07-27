@@ -6,17 +6,19 @@
   - Active Directory
   - Active Directory Pentesting
   - Web Application Pentesting
-- Rust
 - Python
 - Guitar
 
 ## 🌱 Plan on studying
 - JavaScript
 - CompTIA Security+ Certification
+- Rust
 
 ## 🕹 I'm currently having fun with
 - TryHackMe https://tryhackme.com/
 - Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- Flipper Zero https://github.com/djsime1/awesome-flipperzero
+- Raspberry Pi https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
 ## ⭐ Featured projects
 - PyLogger https://github.com/TheBigCarrot/PyLogger
