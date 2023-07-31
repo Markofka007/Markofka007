@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 ## 💡 I’m currently studying/practicing
-- Cybersecurity
-  - TCM's PNPT Certification
-  - Active Directory
-  - Active Directory Pentesting
-  - Web Application Pentesting
 - Python
+- Pentesting
 - Guitar
 
+## 🧠 I’m currently working on
+- Give Me A Target https://github.com/Ghost7926/GMAT
+
 ## 🌱 Plan on studying
-- JavaScript
-- CompTIA Security+ Certification
 - Rust
+- CompTIA's Security+ Certification
+- eLearn Security's eJPT Certification
+- TCM's PJPT Certification [(Affiliate Link: )](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
+- JavaScript
 
 ## 🕹 I'm currently having fun with
 - TryHackMe https://tryhackme.com/
