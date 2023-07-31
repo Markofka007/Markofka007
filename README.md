@@ -12,7 +12,7 @@
 - Rust
 - CompTIA's Security+ Certification
 - eLearn Security's eJPT Certification
-- TCM's PJPT Certification [(Affiliate Link: )](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
+- TCM's PJPT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
 - JavaScript
 
 ## 🕹 I'm currently having fun with
