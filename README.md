@@ -22,8 +22,8 @@
 - Raspberry Pi https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
 ## ⭐ Featured projects
-- PyLogger https://github.com/TheBigCarrot/PyLogger
-- Lemon Jam https://github.com/TheBigCarrot/Lemon-Jam-1
+- PyLogger https://github.com/Markofka007/PyLogger
+- Lemon Jam https://github.com/Markofka007/Lemon-Jam-1
 
 ---
 
