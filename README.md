@@ -22,8 +22,9 @@
 - Raspberry Pi https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
 ## ⭐ Featured projects
-- PyLogger https://github.com/Markofka007/PyLogger
-- Lemon Jam https://github.com/Markofka007/Lemon-Jam-1
+- PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
+- Vulture - Automatic OSINT Tool https://github.com/Ghost7926/Vulture
+- Lemon Jam - C# Local Multiplayer Game https://github.com/Markofka007/Lemon-Jam-1
 
 ---
 
