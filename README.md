@@ -2,11 +2,11 @@
 
 ## 💡 I’m currently studying/practicing
 - Python
-- Pentesting
-- Guitar
+- Web App Pentesting
+- API Pentesting
 
 ## 🧠 I’m currently working on
-- Vulture - Automatic OSINT Tool https://github.com/Ghost7926/Vulture
+- PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
 
 ## 🌱 Plan on studying
 - Rust
