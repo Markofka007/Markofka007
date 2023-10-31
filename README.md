@@ -6,7 +6,7 @@
 - Guitar
 
 ## 🧠 I’m currently working on
-- Give Me A Target https://github.com/Ghost7926/GMAT
+- Vulture - Automatic OSINT Tool https://github.com/Ghost7926/Vulture
 
 ## 🌱 Plan on studying
 - Rust
