@@ -3,16 +3,16 @@
 ## 💡 I’m currently studying/practicing
 - Python
 - Web App Pentesting
-- API Pentesting
-- Rust
 
 ## 🧠 I’m currently working on
 - PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
 - Stable Diffusion Local Search Engine
+- Smaller Miscellaneous Scripts
+- A lot of Homework :(
 
 ## 🌱 Plan on studying
 - eLearn Security's eJPT Certification
-- TCM's PJPT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
+- TCM's PJWT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
 - JavaScript
 
 ## 🕹 I'm currently having fun with
@@ -29,4 +29,4 @@
 ---
 
 ## Bio
-My name is Mark and I am a cybersecurity student. My dream is to have a career in Penetration Testing or Red Teaming. I am also very interested in video game programming and AI development, but I mostly follow news and watch videos regarding these areas of interests. If you want to contact me for any reason I can always be reached at markofka@carrotcove.net
+My name is Mark and I am a cybersecurity student. I am pursuing a career in Penetration Testing. I am also interested in video game and AI development. If you want to contact me for any reason I can always be reached at mark@dread-sec.com.
