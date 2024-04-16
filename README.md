@@ -23,7 +23,7 @@
 
 ## ⭐ Featured projects
 - PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
-- Vulture - Automatic OSINT Tool https://github.com/Ghost7926/Vulture
+- Vulture - Automatic OSINT Tool https://github.com/Vulture-OSINT-Automation-Tool/Vulture
 - Lemon Jam - C# Local Multiplayer Game https://github.com/Markofka007/Lemon-Jam-1
 
 ---
