@@ -5,15 +5,13 @@
 - Web App Pentesting
 
 ## 🧠 I’m currently working on
-- PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
-- Stable Diffusion Local Search Engine
-- Smaller Miscellaneous Scripts
+- Vulture - Automatic OSINT Tool https://github.com/Vulture-OSINT-Automation-Tool/Vulture
+- Smaller Miscellaneous Scripts and Projects
 - A lot of Homework :(
 
 ## 🌱 Plan on studying
 - eLearn Security's eJPT Certification
 - TCM's PJWT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
-- JavaScript
 
 ## 🕹 I'm currently having fun with
 - TryHackMe https://tryhackme.com/
