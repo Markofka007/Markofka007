@@ -3,19 +3,20 @@
 ## 💡 I’m currently studying/practicing
 - Python
 - Web App Pentesting
+- TCM's PJWT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
 
 ## 🧠 I’m currently working on
-- Vulture - Automatic OSINT Tool https://github.com/Vulture-OSINT-Automation-Tool/Vulture
 - Smaller Miscellaneous Scripts and Projects
 - A lot of Homework :(
 
 ## 🌱 Plan on studying
-- eLearn Security's eJPT Certification
-- TCM's PJWT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
+- TCM's PWPT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
+- Burp Suite Certified Practitioner certification.
 
 ## 🕹 I'm currently having fun with
+- PortSwigger Academy https://portswigger.net/web-security/
 - TryHackMe https://tryhackme.com/
-- Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- Stable Diffusion https://github.com/comfyanonymous/ComfyUI
 - Flipper Zero https://github.com/djsime1/awesome-flipperzero
 - Raspberry Pi https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
