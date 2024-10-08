@@ -29,4 +29,4 @@
 ---
 
 ## Bio
-My name is Mark and I am a cybersecurity student. I am pursuing a career in Penetration Testing. I am also interested in video game and AI development. If you want to contact me for any reason I can always be reached at mark@dread-sec.com.
+My name is Mark and I am a cybersecurity student. I am pursuing a career in Web App Pentesting. I am also interested in video game development and AI development.
