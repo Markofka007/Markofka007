@@ -5,7 +5,7 @@
 - Web App Pentesting
 
 ## 🧠 I’m currently working on
-- A GUI application that searches for StableDiffusion-generated images based on the generation tags. https://github.com/Markofka007/SDTagSearch/tree/main
+- A GUI application that searches for StableDiffusion-generated images based on the generation tags. https://github.com/Markofka007/SDTagSearch/
 - Smaller Miscellaneous Scripts and Projects
 - A lot of Homework :(
 
