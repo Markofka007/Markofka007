@@ -3,10 +3,9 @@
 ## 💡 I’m currently studying/practicing
 - Python
 - Web App Pentesting
-- TCM's PJWT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
 
 ## 🧠 I’m currently working on
-- A personal AI assistant with automatic script execution and persistent conversation memory.
+- A GUI application that searches for StableDiffusion-generated images based on the generation tags. https://github.com/Markofka007/SDTagSearch/tree/main
 - Smaller Miscellaneous Scripts and Projects
 - A lot of Homework :(
 
