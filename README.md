@@ -24,6 +24,7 @@
 - PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
 - Vulture - Automatic OSINT Tool https://github.com/Vulture-OSINT-Automation-Tool/Vulture
 - Lemon Jam - C# Local Multiplayer Game https://github.com/Markofka007/Lemon-Jam-1
+- SDTagSearch - A tool for searching through Stable Diffusion images by generation tags https://github.com/Markofka007/SDTagSearch
 
 ---
 
