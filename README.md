@@ -7,7 +7,6 @@
 ## 🧠 I’m currently working on
 - A GUI application that searches for StableDiffusion-generated images based on the generation tags. https://github.com/Markofka007/SDTagSearch/
 - Smaller Miscellaneous Scripts and Projects
-- A lot of Homework :(
 
 ## 🌱 Plan on studying
 - TCM's PWPT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
