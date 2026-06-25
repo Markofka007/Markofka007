@@ -6,10 +6,11 @@
 - Elastic Stack
 
 ## 🧠 I’m currently working on
-- A new version of https://github.com/Markofka007/SDTagSearch/ written entirely in TypeScript. This is a "learning" project to get better at TypeScript.
+- A new version of https://github.com/Markofka007/SDTagSearch/ written entirely in TypeScript. This is a learning project to get better at TypeScript.
 
 ## 🌱 Plan on studying
 - Training an LLM
+- React
 
 ## 🕹 I'm currently having fun with
 - Stable Diffusion https://github.com/comfyanonymous/ComfyUI
