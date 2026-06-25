@@ -1,23 +1,18 @@
 ### Hi there 👋
 
 ## 💡 I’m currently studying/practicing
-- Python
-- Web App Pentesting
+- TypeScript
+- PGP and PKI
+- Elastic Stack
 
 ## 🧠 I’m currently working on
-- A GUI application that searches for StableDiffusion-generated images based on the generation tags. https://github.com/Markofka007/SDTagSearch/
-- Smaller Miscellaneous Scripts and Projects
+- A new version of https://github.com/Markofka007/SDTagSearch/ written entirely in TypeScript. This is a "learning" project to get better at TypeScript.
 
 ## 🌱 Plan on studying
-- TCM's PWPT Certification [(TCM Affiliate Link)](https://academy.tcm-sec.com/?affcode=770707_hn58qs9_)
-- Burp Suite Certified Practitioner certification.
+- Training an LLM
 
 ## 🕹 I'm currently having fun with
-- PortSwigger Academy https://portswigger.net/web-security/
-- TryHackMe https://tryhackme.com/
 - Stable Diffusion https://github.com/comfyanonymous/ComfyUI
-- Flipper Zero https://github.com/djsime1/awesome-flipperzero
-- Raspberry Pi https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
 ## ⭐ Featured projects
 - PyLogger - Python Keylogger https://github.com/Markofka007/PyLogger
@@ -29,4 +24,4 @@
 ---
 
 ## Bio
-My name is Mark and I am a cybersecurity student. I am pursuing a career in Web App Pentesting. I am also interested in video game development and AI development.
+My name is Marko and I am a cybersecurity graduate. I do purple-team work and in my free time I play video games and work on random projects.
